@@ -1,8 +1,8 @@
 === PostType-Widget ===
 Contributors: Dmitry Ivanenko
 Tags: custom, field, custom field, post, post types, custom post types, types,  type, text, content, image, edit, admin, widget, post type widget
-Tested up to: 4.7
-Stable tag: 4.7
+Tested up to: 4.9
+Stable tag: 4.9
 Requires at least: 1.1
 Stable tag: 1.1
 License: GPLv2 or later
