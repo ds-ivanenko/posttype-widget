@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PostType Widget\n"
+"POT-Creation-Date: 2017-02-14 14:42+0200\n"
+"PO-Revision-Date: 2017-02-14 14:42+0200\n"
+"Last-Translator: Dmitry Ivanenko <ivanenko.ds@gmail.com>\n"
+"Language-Team: Dmitry Ivanenko <ivanenko.ds@gmail.com>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: posttypewidget.php\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: posttypewidget.php:42
+msgid "It allows you to display the specified date format posts. "
+msgstr "Цей выджет показує  зазначені повідомлення різних типів постів."
+
+#: posttypewidget.php:150
+msgid "Title"
+msgstr "Назва"
+
+#: posttypewidget.php:154
+msgid "Select the type of post"
+msgstr "Виберіть тип поста"
+
+#: posttypewidget.php:174
+msgid "Show title?"
+msgstr "Показати назву?"
+
+#: posttypewidget.php:180
+msgid "Show description?"
+msgstr "Показати опис?"
+
+#: posttypewidget.php:186
+msgid "Select the type of date display:"
+msgstr "Виберіть тип відображення дати:"
+
+#: posttypewidget.php:189
+msgid "The first type"
+msgstr "Перший тип"
+
+#: posttypewidget.php:190
+msgid "The second type"
+msgstr "Другий тип"
+
+#: posttypewidget.php:191
+msgid "The third type"
+msgstr "Третій тип"
+
+#: posttypewidget.php:192
+msgid "The fourth type"
+msgstr "Четвертий тип"
+
+#: posttypewidget.php:199
+msgid "Number of posts:"
+msgstr "Кількість повідомлень:"
+
+#: posttypewidget.php:204
+msgid "Description length (number of words):"
+msgstr "Опис Довжина (к-сть слів):"
+
+#. Plugin Name of the plugin/theme
+msgid "PostType Widget"
+msgstr "PostType Widget"
+
+#. Description of the plugin/theme
+msgid ""
+"It displays the date in the format of the last \"N\" posts with a given "
+"PostType (date format, number of posts, description and PostType set in the "
+"widget settings)."
+msgstr ""
+"It displays the date in the format of the last \"N\" posts with a given "
+"PostType (date format, number of posts, description and PostType set in the "
+"widget settings)."
+
+#. Author of the plugin/theme
+msgid "Dmitry Ivanenko"
+msgstr "Dmitry Ivanenko"
+
+#~ msgid "Позволяет вывести заданый формат даты постов. "
+#~ msgstr "Дозволяє вивести заданий формат дати постів."
+
+#~ msgid "Заголовок"
+#~ msgstr "Заголовок"
+
+#~ msgid "Выберите тип поста"
+#~ msgstr "Виберіть тип поста"
+
+#~ msgid "Показывать заголовок?"
+#~ msgstr "Показувати заголовок?"
+
+#~ msgid "Показать описание?"
+#~ msgstr "Показати опис?"
+
+#~ msgid "Выберите тип отображения даты:"
+#~ msgstr "Виберіть тип відображення дати:"
+
+#~ msgid "1 тип"
+#~ msgstr "1 тип"
+
+#~ msgid "2 тип"
+#~ msgstr "2 тип"
+
+#~ msgid "3 тип"
+#~ msgstr "3 тип"
+
+#~ msgid "4 тип"
+#~ msgstr "4 тип"
+
+#~ msgid "Количество постов:"
+#~ msgstr "Кількість постів:"
+
+#~ msgid "Длина описания (к-во слов):"
+#~ msgstr "Довжина опису (к-ть слів):"
+
+#~ msgid ""
+#~ "Выводит в заданном формате дату последних N постов с заданным PostType "
+#~ "(формат даты, количество постов и PostType задаются в настройках "
+#~ "виджета). Также есть возможность встраивать виджет через ShortCode."
+#~ msgstr ""
+#~ "Виводить в заданому форматі дату останніх N постів із заданим PostType "
+#~ "(формат дати, кількість постів і PostType задаються в налаштуваннях "
+#~ "віджета). Також є можливість вбудовувати віджет через ShortCode."
